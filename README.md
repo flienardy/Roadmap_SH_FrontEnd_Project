@@ -1,1 +1,1 @@
-https://github.com/flienardy/Roadmap_SH_FrontEnd_Project
+https://roadmap.sh/projects/single-page-cv
